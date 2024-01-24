@@ -33,7 +33,7 @@ const Account = () => (
             <div className="plain-con">
               <p className="para-mem mm">Plan details </p>
               <p className="mail-para mp">Premium </p>
-              <button type="button">Ultra HD</button>
+              <p type="button">Ultra HD</p>
             </div>
             <hr className="hr-line" />
             <div className="btn-con">
