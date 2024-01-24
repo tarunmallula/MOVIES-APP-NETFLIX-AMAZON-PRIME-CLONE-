@@ -127,7 +127,7 @@ class SearchElements extends Component {
               <button
                 type="button"
                 className="try-again-button"
-                onClick={this.renderMovieItem}
+                onClick={this.getSearchElementVideos}
               >
                 Try again
               </button>
