@@ -90,7 +90,7 @@ class PopularItem extends Component {
       <button
         type="button"
         className="try-again-button"
-        onClick={this.renderMovieItem()}
+        onClick={this.getPopularVideos}
       >
         Try again
       </button>
